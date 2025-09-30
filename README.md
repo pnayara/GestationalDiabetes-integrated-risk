@@ -59,20 +59,20 @@ This study addresses whether combining **placental molecular data** with **clini
 ##### Group Characterization
 
 <p align="center">
-  <img src="oGTT.png" width="25%">
+  <img src="images/oGTT.png" width="25%">
   <img src="images/BMI.png" width="25%">
-  <img src="catBMI.png" width="40%">
+  <img src="images/catBMI.png" width="40%">
 </p>
 
 
 ##### Logistic Regression Results
 
 <p align="center">
-  <img src="Modelo_clin.png" width="50%" alt="Integrated Model">
+  <img src="images/Modelo_clin.png" width="50%" alt="Integrated Model">
 </p>
 
 <p align="center">
-  <img src="Mod_cli_or.png" width="80%" alt="Odds Ratios">
+  <img src="images/Mod_cli_or.png" width="80%" alt="Odds Ratios">
 </p>
 
 
@@ -92,11 +92,11 @@ From placentas of patients diagnosed with gestational diabetes or from control s
 
 | PCA | GSEA 
 |-----|------|
-| <img src="PCA.png" width="70%"> | <img src="images/GSEA.jpg" width="100%"> 
+| <img src="images/PCA.png" width="70%"> | <img src="images/GSEA.jpg" width="100%"> 
 
 | CSH Expression|
 |---|
-| <img src="heatmap_exp.png" width="50%"> |
+| <img src="images/heatmap_exp.png" width="50%"> |
 
 
 
@@ -106,11 +106,11 @@ From placentas of patients diagnosed with gestational diabetes or from control s
 >Although the CSH gene score was not statistically significant on its own (p = 0.074), including it in the clinical model led to a **better overall fit**, as shown by a lower AIC (36.85 vs. 39.00). Moreover, it increased the effect size of the clinical predictors, with the odds ratio (OR) for Glycemia rising to 3.97 and for BMI to 1.49.
 
 <p align="center">
-  <img src="mod_gene.png" width="50%" alt="Integrated Model">
+  <img src="images/mod_gene.png" width="50%" alt="Integrated Model">
 </p>
 
 <p align="center">
-  <img src="mod_gen_OR.bmp" width="80%" alt="Odds Ratios">
+  <img src="images/mod_gen_OR.bmp" width="80%" alt="Odds Ratios">
 </p>
 
 
@@ -129,5 +129,6 @@ From placentas of patients diagnosed with gestational diabetes or from control s
 - 🧪 **Serum Biomarker Development** → Translate placental transcriptomic signature into non-invasive clinical tools.  
 
 ---
+
 
 
