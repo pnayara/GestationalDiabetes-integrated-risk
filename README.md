@@ -60,7 +60,7 @@ This study addresses whether combining **placental molecular data** with **clini
 
 <p align="center">
   <img src="oGTT.png" width="25%">
-  <img src="BMI.png" width="25%">
+  <img src="images/BMI.png" width="25%">
   <img src="catBMI.png" width="40%">
 </p>
 
@@ -129,3 +129,4 @@ From placentas of patients diagnosed with gestational diabetes or from control s
 - 🧪 **Serum Biomarker Development** → Translate placental transcriptomic signature into non-invasive clinical tools.  
 
 ---
+
