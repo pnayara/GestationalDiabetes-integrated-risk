@@ -92,7 +92,7 @@ From placentas of patients diagnosed with gestational diabetes or from control s
 
 | PCA | GSEA 
 |-----|------|
-| <img src="PCA.png" width="70%"> | <img src="GSEA.jpg" width="100%"> 
+| <img src="PCA.png" width="70%"> | <img src="images/GSEA.jpg" width="100%"> 
 
 | CSH Expression|
 |---|
@@ -129,4 +129,5 @@ From placentas of patients diagnosed with gestational diabetes or from control s
 - 🧪 **Serum Biomarker Development** → Translate placental transcriptomic signature into non-invasive clinical tools.  
 
 ---
+
 
